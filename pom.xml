@@ -13,7 +13,7 @@
         <project.encode>UTF-8</project.encode>
         <aspectj.version>1.9.1</aspectj.version>
 
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <selenium-java.version>3.141.59</selenium-java.version>
 
         <allure-junit4.version>2.12.1</allure-junit4.version>
